@@ -1,4 +1,4 @@
-# [Kurs Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
+# Kurs Python dla początkujących(https://www.flynerd.pl/tag/python-kurs)
 
 Wprowadzenie do kursu - Python 3.
 
@@ -26,3 +26,5 @@ Rozwiązanie z plików odpowiedzi można przekopiować do terminala lub uruchomi
 ```
 python <numer_zadania>.py
 ```
+
+Wpis jest częścią cyklu: [kurs Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
