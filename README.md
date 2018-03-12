@@ -6,7 +6,7 @@ Opis zadań znajdziecie na stronie wpisu [Python #1: Zabawy w konsoli](https://w
 Lekcja pierwsza wprowadza podstawy - używanie konsoli, wyświetlanie treści, zmienne, operatory i znaki specjalne.
 
 
-#### Sklonuj lub pobierz projekt
+### Sklonuj lub pobierz projekt
 
 Aby obrać projekt przez gita, wpisz w terminalu:
 
@@ -17,3 +17,8 @@ git clone https://github.com/ritaly/python-1-zabawy-w-konsoli.git
 lub [kliknij tutaj](https://github.com/ritaly/python-1-zabawy-w-konsoli/archive/master.zip) aby pobrać paczkę, bez użycia git'a
 
 
+### Uruchomienie
+
+Lekcja pierwsza uczy obsługi konsoli.
+Rozwiązanie z plików odpowiedzi można przekopiować do terminala
+lub uruchomić `python <numer_zadania>.py`.
