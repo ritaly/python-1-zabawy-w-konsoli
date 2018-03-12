@@ -1,7 +1,7 @@
 ### [Kurs Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
-(english below)
 
-Pierwszy wpis wprowadzający wraz z pełnym opisem zadań w języku polskim znajdziecie na stronie wpisu [Python #1: Zabawy w konsoli](https://www.flynerd.pl/2017/01/python-1-zabawy-w-konsoli.html). 
+Wprowadzenie do kursu.  
+Opis zadań znajdziecie na stronie wpisu [Python #1: Zabawy w konsoli](https://www.flynerd.pl/2017/01/python-1-zabawy-w-konsoli.html). 
 
 Lekcja pierwsza wprowadza podstawy - używanie konsoli, wyświetlanie treści, zmienne, operatory i znaki specjalne.
 
