@@ -1,6 +1,6 @@
 # [Kurs Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
 
-Wprowadzenie do kursu - Python 3.
+Wprowadzenie do kursu - Python 3.  
 Opis zadań znajdziecie na stronie wpisu [Python #1: Zabawy w konsoli](https://www.flynerd.pl/2017/01/python-1-zabawy-w-konsoli.html).
 
 Lekcja pierwsza wprowadza podstawy - używanie konsoli, wyświetlanie treści, zmienne, operatory i znaki specjalne.
@@ -19,6 +19,9 @@ lub [kliknij tutaj](https://github.com/ritaly/python-1-zabawy-w-konsoli/archive/
 
 ### Uruchomienie
 
-Lekcja pierwsza uczy obsługi konsoli.
-Rozwiązanie z plików odpowiedzi można przekopiować do terminala
-lub uruchomić `python <numer_zadania>.py`.
+Lekcja pierwsza uczy obsługi konsoli.  
+Rozwiązanie z plików odpowiedzi można przekopiować do terminala  
+lub uruchomić:
+```
+python <numer_zadania>.py
+```
