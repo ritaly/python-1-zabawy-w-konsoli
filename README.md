@@ -1,4 +1,4 @@
-# Kurs Python dla początkujących(https://www.flynerd.pl/tag/python-kurs)
+# Kurs Python dla początkujących
 
 Wprowadzenie do kursu - Python 3.
 
