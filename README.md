@@ -2,7 +2,7 @@
 
 Wprowadzenie do kursu - Python 3.
 
-Lekcja pierwsza wprowadza podstawy - używanie konsoli, wyświetlanie treści, zmienne, operatory i znaki specjalne.
+Lekcja pierwsza - podstawy. Używanie konsoli, wyświetlanie treści, zmienne, operatory i znaki specjalne.
 
 Szczegółowy opis zadań znajdziecie na stronie wpisu [Python #1: Zabawy w konsoli](https://www.flynerd.pl/2017/01/python-1-zabawy-w-konsoli.html).
 
